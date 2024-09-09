@@ -1,0 +1,68 @@
+/* max width 720px */
+@media (max-width: 1280px) {
+  .splashimage,
+  .splashimage2 {
+    height: 500px;
+  }
+
+  .splash {
+    height: 90vh;
+  }
+
+  .splashtext {
+    font-size: 2em;
+  }
+
+  .splashcontenttext .splashsub {
+    font-size: 0.8em;
+  }
+
+  .linewrapper {
+    width: 104%;
+    margin-top: 8px;
+    margin-left: -2%;
+  }
+
+  .linewrapper hr {
+    width: 25%;
+  }
+
+  .splash-border-tag p {
+    font-size: 0.8em;
+  }
+
+  .splash-border-tag {
+    height: 50px;
+    bottom: -28px;
+  }
+
+  .splash-border-tag img {
+    height: 40px;
+  }
+
+  .splashbutton {
+    font-size: 0.8em;
+    padding: 15px 20px;
+  }
+
+  .splashpara {
+    font-size: 1em;
+    max-width: 80%;
+  }
+
+  header a {
+    font-size: 0.8em;
+  }
+
+  header .logogroup img {
+    height: 40px;
+  }
+
+  .header-scroll a {
+    font-size: 0.8em;
+  }
+
+  .header-scroll .logogroup img {
+    height: 40px;
+  }
+}
